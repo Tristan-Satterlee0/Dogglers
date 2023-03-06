@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Dogglers</string>
+    <string name="Doggler1">"Loki"</string>
+    <string name="Doggler2">"Juneau"</string>
+    <string name="Doggler3">"PJ"</string>
+    <string name="Doggler4">"Shanks"</string>
+    <string name="Doggler5">"Luna"</string>
+    <string name="Doggler6">"Lea"</string>
 </resources>
